@@ -1,0 +1,1 @@
+Add subpages for Pixel Art Gallery and TCG Gallery in design.html
