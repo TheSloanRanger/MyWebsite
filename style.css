@@ -1,3 +1,19 @@
+@media (max-width: 480px) {
+    .col {
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+    }
+
+    .col-md {
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+    }
+}
+
+@font-face {
+  font-family: 'Pushster', cursive;
+}
+
 .border-3 {
     border-width:7px !important;
     border-color: black !important;
@@ -23,4 +39,9 @@
 
 .background-purple {
   background-color: #ffd6a5 !important;
+}
+
+
+.text-yellow {
+    color: #fdffb6 !important;
 }
