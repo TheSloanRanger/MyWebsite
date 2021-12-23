@@ -10,10 +10,6 @@
     }
 }
 
-@font-face {
-  font-family: 'Pushster', cursive;
-}
-
 .border-3 {
     border-width:7px !important;
     border-color: black !important;
@@ -37,11 +33,53 @@
   border-bottom-right-radius: 15px !important;
 }
 
-.background-purple {
-  background-color: #ffd6a5 !important;
+.background-turq {
+  background-color: #5fe4cf;
 }
 
+.background-purple {
+  background-color: #ffcfd2 !important;
+}
+
+.background-grey {
+  background-color: #fff3b0;
+}
 
 .text-yellow {
-    color: #fdffb6 !important;
+    color: #fbf8cc !important;
+}
+
+.background-en-purple {
+    background-color: #98f5e1 !important;
+}
+
+.text-en-purple {
+    color: #7030a0 !important;
+}
+
+a:link {
+  text-decoration: none;
+  color: white !important;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black !important;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+.no-padding {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.no-margin {
+  margin-bottom: 0px !important;
 }
