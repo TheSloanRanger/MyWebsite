@@ -1,13 +1,28 @@
 @media (max-width: 480px) {
     .col {
-      margin-left: 0 !important;
-      margin-right: 0 !important;
+      margin-left: 0px !important;
+      margin-right: 0px !important;
+      margin-bottom: 0px;
     }
 
     .col-md {
-      margin-left: 0 !important;
-      margin-right: 0 !important;
+      margin-left: 0px !important;
+      margin-right: 0px !important;
+      margin-bottom: 0px !important;
     }
+
+    .row {
+      margin-left: 0px !important;
+      margin-right: 0px !important;
+      margin-bottom: 0px !important;
+
+    }
+
+
+}
+
+h1 {
+  font-size: 64pt !important;
 }
 
 .border-3 {
