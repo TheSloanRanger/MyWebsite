@@ -21,13 +21,24 @@
 
 }
 
+p {
+  font-family: 'Merriweather', serif;
+}
+
 h3 {
   margin-left: 0px;
   margin-right: 0px;
+  font-family: 'Merriweather', serif;
 }
 
 h1 {
   font-size: 64pt !important;
+  font-family: 'Merriweather', serif;
+}
+
+h4 {
+  font-family: 'Merriweather', serif;
+
 }
 
 .border-3 {
