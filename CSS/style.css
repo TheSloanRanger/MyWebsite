@@ -97,9 +97,25 @@ h4 {
     color: #7030a0 !important;
 }
 
+a.mywork:hover {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+
+
+a.connect:link{
+  color: black !important;
+  text-decoration: underline;
+}
+
+a.connect:hover {
+  color: darkblue !important;
+  text-decoration: underline !important;
+}
+
 a:link {
   text-decoration: none;
-  color: white !important;
 }
 
 a:visited {
@@ -107,8 +123,7 @@ a:visited {
 }
 
 a:hover {
-  text-decoration: none;
-  color: black !important;
+  text-decoration: underline;
 }
 
 a:active {
@@ -123,3 +138,5 @@ a:active {
 .no-margin {
   margin-bottom: 0px !important;
 }
+
+
