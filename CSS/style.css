@@ -29,10 +29,24 @@
 
 }
 
+a.mywork:hover div.red {
+  color: black;
 
+}
 
+a.mywork:hover div.blue {
+  color: black;
 
+}
 
+a.mywork:hover div.yellow {
+  color: black;
+  
+}
+
+div a i.fa-github:hover {
+  color: gainsboro !important;
+}
 
 p {
   font-family: 'Merriweather', serif;
