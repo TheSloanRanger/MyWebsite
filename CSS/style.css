@@ -29,6 +29,47 @@
 
 }
 
+/* Index Hover Over Navbar Items: */
+
+div.hom a.hom:hover {
+  text-decoration-color: gainsboro;
+}
+
+div.comp a.comp:hover {
+  /* color: #227c9d !important; */
+  text-decoration-color: #227c9d;
+}
+
+div.des a.des:hover {
+  /* color: #ffcb77 !important; */
+  text-decoration-color: #ffcb77;
+}
+
+div.len a.len:hover {
+  text-decoration-color: #fe6d73;
+}
+
+/* Active Navbar Items on Each Page: */
+
+div.compactive a.compactive {
+  text-decoration: underline !important;
+  text-decoration-color: #227c9d !important;
+}
+
+div.desactive a.desactive {
+  text-decoration: underline !important;
+  text-decoration-color: #ffcb77 !important;
+}
+
+div.lenactive a.lenactive {
+  text-decoration: underline !important;
+  text-decoration-color: #fe6d73 !important;
+}
+
+
+
+
+
 a.mywork:hover div.red {
   color: black;
 
