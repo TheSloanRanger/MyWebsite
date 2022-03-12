@@ -26,8 +26,24 @@
       margin-bottom: 25px !important;
     }
 
+    .container {
+      margin-top: 0px !important;
+    }
+
+    .container-fluid {
+      margin-top: 0px !important;
+    }
+
+    iframe {
+      width: 100% !important;
+    }
+
 
 }
+
+/* h2.bencomic:active {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+} */
 
 /* Index Hover Over Navbar Items: */
 
