@@ -82,6 +82,11 @@ div.lenactive a.lenactive {
   text-decoration-color: #fe6d73 !important;
 }
 
+div.homactive a.homactive {
+  text-decoration: underline !important;
+  text-decoration-color: gainsboro !important;
+}
+
 
 
 
