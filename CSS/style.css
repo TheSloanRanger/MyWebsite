@@ -41,6 +41,41 @@
 
 }
 
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+.startpanel:visited {
+  color: white;
+
+}
+
+.cslinks:link {
+  color: #ffcb77;
+  
+}
+
+.cslinks:visited {
+  color: #ffcb77;
+
+}
+
+.fullpanel {
+  
+  height:100vh;
+}
+
+.fullpaneltext {
+  text-align: center;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
 /* h2.bencomic:active {
   font-family: "Comic Sans MS", cursive, sans-serif;
 } */
@@ -192,13 +227,18 @@ a.mywork:hover {
 
 
 a.connect:link{
-  color: black !important;
+  color: blue !important;
   text-decoration: underline;
 }
 
 a.connect:hover {
   color: darkblue !important;
   text-decoration: underline !important;
+}
+
+a.connect:visited {
+  color: blue;
+  text-decoration: underline;
 }
 
 a:link {
