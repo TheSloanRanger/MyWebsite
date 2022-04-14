@@ -246,11 +246,11 @@ a.mywork:hover {
 
 a.connect:link{
   color: blue !important;
-  text-decoration: underline;
+  
 }
 
 a.connect:hover {
-  color: darkblue !important;
+  color: blue !important;
   text-decoration: underline !important;
 }
 
