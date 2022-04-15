@@ -245,7 +245,8 @@ a.mywork:hover {
 
 
 a.connect:link{
-  color: blue !important;
+  color: black !important;
+  text-decoration: underline;
   
 }
 
@@ -255,7 +256,7 @@ a.connect:hover {
 }
 
 a.connect:visited {
-  color: blue;
+  color: black;
   text-decoration: underline;
 }
 
