@@ -41,6 +41,10 @@
 
 }
 
+i.fa-angle-double-down:hover {
+  color: #227c9d;
+}
+
 #myBtn {
   display: none;
   position: fixed;
